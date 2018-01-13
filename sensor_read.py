@@ -4,7 +4,7 @@
 #import math #from base.py
 import smbus #from i2c.py, it is a i2c communication library
 import time
-#assigning variables from data sheet.
+#assigning variables from data sheet..
 REG_DEVICE_ID = 0x00
 REG_THRESH_TAP = 0x1D
 REG_OFSX = 0x1E
